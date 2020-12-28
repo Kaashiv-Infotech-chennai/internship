@@ -1,6 +1,7 @@
 An internship is a professional learning experience by the students, job seekers and professionals. 
 
-[internship meaning](https://kaashiv-infotech.medium.com/what-does-an-internship-mean-22a674bfc5c3)
+import { assign, map } from '<a href="https://www.npmjs.com/package/lodash" title="Lodash on npm">lodash</a>';
+
 
 
 It offers meaningful, practical work related to a student’s field of study or career interest.
